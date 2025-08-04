@@ -1,7 +1,6 @@
 # n8n Timezone Patcher for Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/5xpV_y?referralCode=LYVezg)
-
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/courteous-gentleness?referralCode=LYVezg)
 A lightweight Railway container that automatically updates the timezone setting of every workflow in your self-hosted n8n instance.
 
 ## ✨ Why?
